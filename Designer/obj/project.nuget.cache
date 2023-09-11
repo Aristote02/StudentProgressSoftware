@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmxwNT56Wzg0rhQP58dEGFAikpcLW1HSIrYtSUHsO/amPYm19ltKWVpztQncg7ceXPMgxrudY+L7j0lO2py2sw==",
+  "success": false,
+  "projectFilePath": "C:\\C#\\My project\\StudentsProgressWFA\\Designer\\Designer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project StudentsProgressWFA is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project StudentsProgressWFA supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "StudentsProgressWFA",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
