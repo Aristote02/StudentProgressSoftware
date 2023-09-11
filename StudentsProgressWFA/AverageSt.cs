@@ -8,6 +8,7 @@ namespace StudentsProgressWFA
 {
     public class AverageSt
     {
+
         public string StudentName { get; set; }
         public string Specialty { get; set; }
         public string Faculty { get; set; }
